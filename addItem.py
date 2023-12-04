@@ -1,7 +1,7 @@
 from findItem import findItem
 import os
 def run():
-    exes = open(r"D:\Project\pyFind\allExes.txt", "r+",encoding='utf-8')
+    exes = open(r"D:\project\fileFinder\allExes.txt", "r+",encoding='utf-8')
     short = input("输入一个简写名字用于查找: ")
     print("你输入的是: " + short)
     path = input("输入exe文件的路径: ")

@@ -1,2 +1,2 @@
-rj "D:\downloaded Files\RIDDLE JOKER\RiddleJoker_CHS.exe" "D:\downloaded Files\RIDDLE JOKER"
-r3 "D:\downloaded Files\兰斯03 利萨斯陷落\Rance03.exe" "D:\downloaded Files\兰斯03 利萨斯陷落"
+9nine天 "D:\galgame\9-nine-天色天歌天籁音(樱空)\9-nine-天色天歌天籁音.exe" "D:\galgame\9-nine-天色天歌天籁音(樱空)"
+9nT "D:\galgame\9-nine-天色天歌天籁音(樱空)\nine_sorairo.exe" "D:\galgame\9-nine-天色天歌天籁音(樱空)"
