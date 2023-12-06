@@ -3,7 +3,7 @@
 
 使用python的os对本地电脑进行操作，只在windows运行，因为写的是powershell脚本。但是之后可以尝试移植到linux
 # 用法
- 因为没有添加环境变量，只能引用**绝对路径** python3 D:\Project\pyFind\main.py
+ 因为没有添加环境变量，只能引用**绝对路径** python3 D:\Project\pyFind\find.ps1
 
 ![一个example](https://raw.githubusercontent.com/blameitonme1/pics/main/ps1example.png)
 
